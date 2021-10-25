@@ -1,0 +1,4 @@
+venv/
+.env
+config.json
+dns_log.txt

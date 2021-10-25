@@ -1,0 +1,25 @@
+{
+    "ip_api_url": "https://api64.ipify.org",
+    "header": {
+        "Authorization": "Bearer INSERT API TOKEN HERE", 
+        "Content-Type": "application/json"
+    },
+    "zone_data": [
+        {
+            "zone_id": "INSERT ZONE ID HERE",
+            "name": "INSERT FQDN HERE"
+        },
+        {
+            "zone_id": "INSERT ZONE ID HERE",
+            "name": "INSERT FQDN HERE"
+        },
+        {
+            "zone_id": "INSERT ZONE ID HERE",
+            "name": "INSERT FQDN HERE"
+        },
+        {
+            "zone_id": "INSERT ZONE ID HERE",
+            "name": "INSERT FQDN HERE"
+        }
+    ]
+}
