@@ -8,7 +8,6 @@ with open('config.json') as config_file:
 header_data = config["header"]
 zones = config["zone_data"]
 ip_api = config["ip_api_url"]
-ns = config["nameserver"]
 
 logging.basicConfig(filename='dns_log.txt', encoding='utf-8', level=logging.INFO)
 
